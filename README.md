@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alexandrudanpop/alexandrudanpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,10 +16,11 @@ Here are some ideas to get you started:
 ### Hi there 👋, I am Alex!
 ###### *Software Engineer*
 
-I'm a freelance Software Engineer who loves working with Javascript, React and Node.js. 👨‍💻 I'm also a big Typescript fan! 🚀
+I'm a freelance Software Engineer who loves working with Javascript, React and Node.js. 💻 I'm also a big Typescript fan! 🚀 
+I am an enthusiast of serverless architectures. 
 
-* Frontend: React, Redux, GraphQL, HTML5, CSS3, SASS, Typescript, ES6+
-* Backend: Typescript, Node.js, Express, C#, .NET Core
+* Frontend: React, Redux, GraphQL, HTML5, CSS3, SASS, Typescript, ES6+ ✨
+* Backend: Typescript, Node.js, Express, C#, .NET Core ⚡
 * Cloud Computing: Azure
 * CI/CD: Azure DevOps, Team City 
 
