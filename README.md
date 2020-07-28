@@ -25,6 +25,7 @@ I am an enthusiast of serverless architectures.
 * CI/CD: Azure DevOps, Team City 
 
 More about my skillset: [click here!](https://alexandrudanpop.dev/skills)
+
 I also blog on [dev.to!](https://dev.to/alexandrudanpop/)
 
 ### You can also find me on
