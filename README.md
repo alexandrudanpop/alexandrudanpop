@@ -26,7 +26,7 @@ I am an enthusiast of serverless architectures.
 
 More about my skillset: [click here!](https://alexandrudanpop.dev/skills)
 
-I also blog on [dev.to!](https://dev.to/alexandrudanpop/)
+✍️ Check out my articles on [dev.to](https://dev.to/alexandrudanpop/).
 
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexandrudanpop/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@alexandrudanpop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev.to' height='40'>](https://dev.to/alexandrudanpop/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alexandrudanpop.dev)  
