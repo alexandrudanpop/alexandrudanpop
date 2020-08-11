@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Alex!
 ###### *Software Engineer*
 
-I'm a freelance Software Engineer who loves working with **Javascript**, **React**, **Typescript**. 💻 
+I'm a Software Engineer who loves working with **Javascript**, **React**, **Typescript**. 💻 
 
 I am an enthusiast of serverless architectures. 
 
