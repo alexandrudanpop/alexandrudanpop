@@ -3,8 +3,6 @@
 
 I'm a Software Engineer who loves working with **Javascript**, **React**, **Typescript**. 💻 
 
-I am an enthusiast of serverless architectures. 
-
 * Frontend: React, Redux, GraphQL, HTML5, CSS3, SASS, Typescript, ES6+ 
 * Backend: C#, .NET Core, Typescript, Node.js, Express 
 * Cloud Computing: Azure
