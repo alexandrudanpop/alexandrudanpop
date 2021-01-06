@@ -8,8 +8,6 @@ I'm a Software Engineer who loves working with **Javascript**, **React**, **Type
 * Cloud Computing: Azure
 * CI/CD: Azure DevOps, Team City 
 
-More about my skillset: [click here!](https://alexandrudanpop.dev/skills)
-
 ✍️ Check out my articles on [dev.to](https://dev.to/alexandrudanpop/).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alexandrudanpop?label=Follow)](https://twitter.com/alexandrudanpop)
