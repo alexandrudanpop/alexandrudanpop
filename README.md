@@ -8,6 +8,10 @@
 
 ✍️ Sporadic Blogger: I don't just code; I share my insights and experiences with the world. Check out my blog or twitter where I dive into tech topics, share tips, and explore the ever-evolving landscape of technology.
 
+📈 Looking to Collaborate? If you're interested in harnessing my skills and experience for your software development needs, I'd love to connect! Whether it's building your next big project or consulting on tech strategy, let's explore the possibilities.
+
+📧 Reach Out: Feel free to drop me a message at [contact@alexandrudanpop.dev]
+
 ### You can find me on 💬
 
 [<img src='https://raw.githubusercontent.com/alexandrudanpop/alexandrudanpop/master/website-click.svg' alt='website' height='40'>](https://alexandrudanpop.dev) [<img src='https://raw.githubusercontent.com/alexandrudanpop/alexandrudanpop/master/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexandrudanpop/) [<img src='https://raw.githubusercontent.com/alexandrudanpop/alexandrudanpop/master/twitter-color.svg' alt='twitter' height='40'>](https://twitter.com/@alexandrudanpop) [<img src='https://raw.githubusercontent.com/alexandrudanpop/alexandrudanpop/master/dev-to.svg' alt='dev.to' height='40'>](https://dev.to/alexandrudanpop/)
