@@ -2,15 +2,15 @@
 
 ##### _Software Engineer_
 
-🌐 Web advocate: The easiest and most scalable way of distributing software is using the modern web. I'm all about creating secure, sleek, and user-friendly web experiences. This involves a sensible combination of the latest frontend innovations or frameworks blend with the magic of cloud solutions.
+🌐 **Web advocate:** The easiest and most scalable way of distributing software is using the modern web. I'm all about creating secure, sleek, and user-friendly web experiences. This involves a sensible combination of the latest frontend innovations or frameworks blend with the magic of cloud solutions.
 
-🛠️ Tech Tinkerer: I'm the kid in the candy store when it comes to tech. I'm always on the lookout for new ways to do things better, experimenting with different technologies, and pushing the boundaries of what's possible.
+🛠️ **Tech Tinkerer:** I'm the kid in the candy store when it comes to tech. I'm always on the lookout for new ways to do things better, experimenting with different technologies, and pushing the boundaries of what's possible.
 
-✍️ Sporadic Blogger: I don't just code; I share my insights and experiences with the world. Check out my blog or twitter where I dive into tech topics, share tips, and explore the ever-evolving landscape of technology.
+✍️ **Sporadic Blogger:** I don't just code; I share my insights and experiences with the world. Check out my blog or twitter where I dive into tech topics, share tips, and explore the ever-evolving landscape of technology.
 
-📈 Looking to Collaborate? If you're interested in harnessing my skills and experience for your software development needs, I'd love to connect! Whether it's building your next big project or consulting on tech strategy, let's explore the possibilities.
+📈 **Looking to Collaborate?** If you're interested in harnessing my skills and expertise for your software development needs, I'd love to connect! Whether it's building your next big project or consulting on tech strategy, let's explore the possibilities.
 
-📧 Reach Out: Feel free to drop me a message at [contact@alexandrudanpop.dev]
+📧 **Reach Out:** Feel free to drop me a message at [contact@alexandrudanpop.dev]
 
 ### You can find me on 💬
 
