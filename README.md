@@ -1,4 +1,4 @@
-Building the new generation of FinOps automation at OpenOps. It's open source! 🌐
+Building the new generation of FinOps automation at OpenOps.
 
 ![LinkedIn Event Post  1200x627 -1](https://github.com/user-attachments/assets/330d3faa-5d37-46b9-9384-f5208336ab80)
 
