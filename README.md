@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alexandru-Dan Pop 👋
+# Hi, I'm Alex 👋
 
 **Software Engineer · Agentic AI · Product Engineering**
 
